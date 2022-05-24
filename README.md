@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OliREV
 - 👀 I’m interested in C#\.NET developing,but I have experience in Java and C/C++ too.
-- 🌱 I’m currently learning in University Of Szeged
-- 💞️ I’m looking to collaborate on contractor projects,but interested in full-time jobs.
+- 🌱 I’m currently working at Capgemini as a Junior Software Engineer
 - 📫 How to reach me ||| const string EMAIL_ADDRESS="oliver20001140@gmail.com";
 
 <!---
